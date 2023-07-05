@@ -1,0 +1,4 @@
+edgedb==1.5.0
+fastapi==0.99.1
+PyPDF2==3.0.1
+openai==0.27.8
